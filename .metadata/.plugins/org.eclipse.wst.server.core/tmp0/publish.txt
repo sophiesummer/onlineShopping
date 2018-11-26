@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Nov 12 15:30:03 CST 2018
+org.eclipse.jst.j2ee.server\:/binary\:/Users/sophie/.m2/repository/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar=/Users/sophie/Downloads/apache-tomcat-9.0.8/wtpwebapps/onlineShop/WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
+org.eclipse.jst.j2ee.server\:onlineShop=/Users/sophie/Downloads/apache-tomcat-9.0.8/wtpwebapps/onlineShop
