@@ -34,7 +34,6 @@
                 <c:if test="${not empty registrationSuccess}">
                     <div class="error" style="color: #ff0000;">${registrationSuccess}</div>
                 </c:if>
-                <!-- will display after logged out successfull -->
                 <c:if test="${not empty logout}">
                     <div class="error" style="color: #ff0000;">${logout}</div>
                 </c:if>

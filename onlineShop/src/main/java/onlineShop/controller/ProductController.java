@@ -53,7 +53,7 @@ public class ProductController {
 
 	@RequestMapping("/admin/delete/{productId}")
 	public String deleteProduct(@PathVariable(value = "productId") int productId) {
-		Path path = Paths.get("/Users/jiweig/products/" + productId + ".jpg");
+		Path path = Paths.get("/Users/sophie/products/" + productId + ".jpg");
 
 		if (Files.exists(path)) {
 			try {
@@ -70,7 +70,7 @@ public class ProductController {
 	@RequestMapping(value = "/admin/product/addProduct", method = RequestMethod.GET)
 	public String getProductForm(Model model) {
 		Product product = new Product();
-//		product.setProductCategory("Android");
+//		product.setProductCategory("Android"); // for test
 		model.addAttribute("productForm", product);
 		return "addProduct";
 	}
@@ -84,7 +84,7 @@ public class ProductController {
 		productService.addProduct(product);
 		MultipartFile image = product.getProductImage();
 		if (image != null && !image.isEmpty()) {
-			Path path = Paths.get("/Users/jiweig/products/" + product.getId() + ".jpg");
+			Path path = Paths.get("/Users/sophie/products/" + product.getId() + ".jpg");
 
 			try {
 				image.transferTo(new File(path.toString()));
