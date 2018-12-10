@@ -10,7 +10,7 @@ import onlineShop.model.Cart;
 import onlineShop.model.CartItem;
 
 @Repository
-public class CartItemDaoImpl implements CartItemDao{
+public class CartItemDaoImpl implements CartItemDao {
 	@Autowired
 	private SessionFactory sessionFactory;
 	

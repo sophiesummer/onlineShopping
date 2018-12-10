@@ -9,7 +9,6 @@
        http://www.springframework.org/schema/webflow-config 
         http://www.springframework.org/schema/webflow-config/spring-webflow-config.xsd">
 
-	<!-- Spring - Security Purpose -->
 	<security:http auto-config="true" use-expressions="true"
 		disable-url-rewriting="false">
 		<security:csrf disabled="true" />
@@ -24,7 +23,7 @@
 	<security:authentication-manager>
 		<security:authentication-provider>
 			<security:user-service>
-				<security:user name="stefanlaioffer@gmail.com"
+				<security:user name="yangm2@illinois.edu"
 					password="123456" authorities="ROLE_ADMIN" />
 			</security:user-service>
 		</security:authentication-provider>
