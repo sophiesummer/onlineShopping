@@ -151,7 +151,7 @@
 	</div>
 	<%@ include file="footer.jsp"%>
 
-	<!-- Validating Password -->
+
 	<script type="text/javascript">
 		function Validate() {
 			var password = document.getElementById("pass").value;

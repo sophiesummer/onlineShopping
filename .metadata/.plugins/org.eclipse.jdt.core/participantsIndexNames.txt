@@ -3,5 +3,11 @@ INDEX VERSION 1.130
 /onlineShop/src/main/java
 /Users/sophie/shopping/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/723275003.index
 /onlineShop/src/main/java
+/Users/sophie/onlineShopping/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3697829598.index
+/onlineShop/src/main/java
 /Users/sophie/shopping/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3697829598.index
 /onlineShop/src/main/resources
+/Users/sophie/onlineShopping/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/723275003.index
+/onlineShop/src/main/java
+/Users/sophie/onlineShopping/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3305826856.index
+/onlineShop/src/main/java

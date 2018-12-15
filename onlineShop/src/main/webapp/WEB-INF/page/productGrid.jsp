@@ -33,53 +33,21 @@
              class="w3-hover-opacity">
         <div class="w3-container w3-white">
             <p>
-                <b>Oppo A37</b>
+                <b>Backpacks</b>
             </p>
             <p>
             <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - 720x1280 pixels</li>
-                <li>OS - Android OS, v5.1(Lollipop)</li>
-                <li>Price - 3000.00</li>
+                <li>bags </li>
+                <li></li>
+                <li></li>
+                <li>Price - 50.00</li>
             </ul>
             </p>
         </div>
     </div>
 
-    <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/vivo.jpg"/>" alt="Norway" style="width: 100%"
-             class="w3-hover-opacity">
-        <div class="w3-container w3-white">
-            <p>
-                <b>Vivo V9</b>
-            </p>
-            <p>
-            <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - Android 8.1 pixels</li>
-                <li>OS - Android 8.1</li>
-                <li>Price - $349.00</li>
-            </ul>
-            </p>
-        </div>
-    </div>
-    <div class="w3-third w3-container w3-margin-bottom">
-        <img src="<c:url value="/resource/images/products/samsung.jpg"/>" alt="Norway" style="width: 100%"
-             class="w3-hover-opacity">
-        <div class="w3-container w3-white">
-            <p>
-                <b>Samsung Galaxy S8</b>
-            </p>
-            <p>
-            <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - 2960x1440 pixels</li>
-                <li>OS - Android 7.0</li>
-                <li>Price - $549.00</li>
-            </ul>
-            </p>
-        </div>
-    </div>
+   
+   
 </div>
 
 <hr>
@@ -89,14 +57,14 @@
              class="w3-hover-opacity">
         <div class="w3-container w3-white">
             <p>
-                <b>Google Pixel</b>
+                <b>lamp</b>
             </p>
             <p>
             <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - 2880x1440 pixels</li>
-                <li>OS - Android 8.0</li>
-                <li>Price - $649.00</li>
+                <li>Furniture</li>
+                <li>40w</li>
+                <li></li>
+                <li>Price - $49.00</li>
             </ul>
             </p>
         </div>
@@ -107,14 +75,14 @@
              class="w3-hover-opacity">
         <div class="w3-container w3-white">
             <p>
-                <b>iPhoneX</b>
+                <b>Ear phone</b>
             </p>
             <p>
             <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - 2436x1125 pixels</li>
-                <li>OS - iOS 11</li>
-                <li>Price - $999.00</li>
+                <li>Technology</li>
+                <li></li>
+                <li></li>
+                <li>Price - $99.00</li>
             </ul>
             </p>
         </div>
@@ -124,14 +92,14 @@
              class="w3-hover-opacity">
         <div class="w3-container w3-white">
             <p>
-                <b>Huawei Mate 10</b>
+                <b>Desk </b>
             </p>
             <p>
             <ul>
-                <li>Technology - GSM/HSPA/LTE</li>
-                <li>Resolution - 1440 x 2560 pixels</li>
-                <li>OS - Android 8.0</li>
-                <li>Price - $549.00</li>
+                <li>Furniture</li>
+                <li>30' * 30' * 50'</li>
+                <li>white</li>
+                <li>Price - $49.00</li>
             </ul>
             </p>
 

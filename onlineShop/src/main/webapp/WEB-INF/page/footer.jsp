@@ -27,6 +27,8 @@
             <a href="<c:url value="/getAllProducts" />">Product List</a>
         </p>
 
+        <p>Created by Sophie &copy; 2018</p>
+
     </div>
 
 </footer>

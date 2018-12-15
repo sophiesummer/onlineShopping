@@ -30,10 +30,11 @@
                 <h3 class="panel-title" align="center">Sign In</h3>
             </div>
             <div class="panel-body">
-                <!-- will display after registration form registerd successfully -->
+
                 <c:if test="${not empty registrationSuccess}">
                     <div class="error" style="color: #ff0000;">${registrationSuccess}</div>
                 </c:if>
+
                 <c:if test="${not empty logout}">
                     <div class="error" style="color: #ff0000;">${logout}</div>
                 </c:if>
@@ -54,7 +55,7 @@
                                 <div class="error" style="color: #ff0000">${error}</div>
                             </c:if>
                         </div>
-                        <!-- Change this to a button or input when using this as a form -->
+
                         <div id="button">
                             <button type="submit" class="btn btn-sm btn-success"
                                     style="margin-right: 79px; margin-left: 60px">Login

@@ -1,7 +1,7 @@
-INDEX VERSION 1.4+/Users/sophie/shopping/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-382164128.index
-949698916.index
-1655367582.index
+INDEX VERSION 1.4+/Users/sophie/onlineShopping/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4272709473.index
+21018265.index
 502585699.index
-1083020070.index
-346250503.index
+2795257494.index
+723275003.index
+964459837.index
